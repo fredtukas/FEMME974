@@ -13,21 +13,8 @@
   <body>
     <h1>Femme 974</h1>
     
-<<<<<<< HEAD
-    <!--menu-->
-    <?php include("menu.php");?>
-
-
-    <!--header-->
-    <?php include("header.php");?>
-
-    
-=======
-   
-
     <!--menu-->
     <?php include("include/menu.php");?>
->>>>>>> 7e17fc1b4933b399ffc9d1900f67217d814740c9
 
     <!--contenu-->
     <?php include("include/contenu.php");?>
