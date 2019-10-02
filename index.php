@@ -13,20 +13,19 @@
   <body>
     <h1>Femme 974</h1>
     
-    <!--header-->
-    <?php include("header.php");?>
+   
 
     <!--menu-->
-    <?php include("menu.php");?>
+    <?php include("include/menu.php");?>
 
     <!--contenu-->
-    <?php include("contenu.php");?>
+    <?php include("include/contenu.php");?>
 
     <!--formulaire-->
-    <?php include("formulaire.php");?>
+    <?php include("include/formulaire.php");?>
 
     <!--footer-->
-    <?php include("footer.php");?>
+    <?php include("include/footer.php");?>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
