@@ -7,21 +7,13 @@
             <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-<<<<<<< HEAD
-          <div class="carousel-item active">
-            <img src="./contenu.php/../images/violence1.jpg" height="450px" class="d-block w-100" alt="...">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>VOUS ETES VICTIME DE VIOLENCE ?</h5>
-              <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>
-=======
+            <!--IMAGE 1-->
             <div class="carousel-item active">
-                <!--IMAGE 1-->
-                <img src="./contenu.php/../images/violence1.jpg" height="450px" class="d-block w-100" alt="...">
+                <img src="./contenu.php/../images/violence1.jpg"  height="450px" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <h5>VOUS ETES VICTIME DE VIOLENCE ?</h5>
+              <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>
                 </div>
->>>>>>> 1a1e70e589b258bd2466f88838b18840dec328e4
             </div>
             <div class="carousel-item">
                 <!--IMAGE 2-->
@@ -50,3 +42,7 @@
         </a>
     </div>
 </div>
+
+
+<!--<h5>VOUS ETES VICTIME DE VIOLENCE ?</h5>
+              <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>-->
