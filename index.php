@@ -12,6 +12,21 @@
   </head>
   <body>
     <h1>Femme 974</h1>
+    
+    <!--header-->
+    <?php include("header.php");?>
+
+    <!--menu-->
+    <?php include("menu.php");?>
+
+    <!--contenu-->
+    <?php include("contenu.php");?>
+
+    <!--formulaire-->
+    <?php include("formulaire.php");?>
+
+    <!--footer-->
+    <?php include("footer.php");?>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
