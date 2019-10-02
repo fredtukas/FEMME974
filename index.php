@@ -13,6 +13,7 @@
   <body>
     <h1>Femme 974</h1>
     
+<<<<<<< HEAD
     <!--menu-->
     <?php include("menu.php");?>
 
@@ -21,15 +22,21 @@
     <?php include("header.php");?>
 
     
+=======
+   
+
+    <!--menu-->
+    <?php include("include/menu.php");?>
+>>>>>>> 7e17fc1b4933b399ffc9d1900f67217d814740c9
 
     <!--contenu-->
-    <?php include("contenu.php");?>
+    <?php include("include/contenu.php");?>
 
     <!--formulaire-->
-    <?php include("formulaire.php");?>
+    <?php include("include/formulaire.php");?>
 
     <!--footer-->
-    <?php include("footer.php");?>
+    <?php include("include/footer.php");?>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
