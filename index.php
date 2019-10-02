@@ -14,8 +14,6 @@
   <body>
     <h1>Femme 974</h1>
     
-   
-
     <!--menu-->
     <?php include("include/menu.php");?>
 
