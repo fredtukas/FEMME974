@@ -11,7 +11,9 @@
       <a href="http://finistere.cidff.info/partenaires/view/133" target="blank"><img src="images/3.png" class="logo m-5"></a>
       <a href="http://www.efticoi.net/efticoi-association.htm" target="blank"><img src="images/4.jpg" class="logo m-5"></a><br><br>
     </p>
-
+<p class="text-center">Association enregistrée à la préfecture de la Réunion sous le n°w9r4002385
+SIRET 534 792 643 00015<br><br>
+Contact : <a href="mailto:femmes974@gmail.com">femmes974@gmail.com</a></p>
     
   </div>
 </div>
