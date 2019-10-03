@@ -2,7 +2,7 @@
 
 <h2 class="text-center m-4" style="color:#c10000;">Contact</h2>
 
-<form class="m-4">
+<form class="m-4 bg-blanc">
   <div class="row">
     <div class="col">
       <input type="text" class="form-control" placeholder="Nom">

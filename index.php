@@ -21,7 +21,7 @@
     <?php include("include/menu.php"); ?>
   </header>
 
-  <main class="container">
+  <main class="container bg-blanc">
 
 
     <!--banniere-->

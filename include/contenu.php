@@ -51,7 +51,7 @@
               <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>-->
 
               <!--collapse--> 
-              <div class="container">
+              <div class="container bg-blanc">
     
  
               <p class="text-center">LE SERVICE RÉGIONAL DES DROITS DES FEMMES et DE L'ÉGALITÉ DE LA RÉUNION : contacter le 0262 40 78 39 

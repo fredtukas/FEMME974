@@ -10,7 +10,11 @@ body{
     background-color: #dedede;
 }
 
+/*container*/
 
+.bg-blanc{
+    background-color: white;  
+}
 
 h1{
     color: #c10000;
