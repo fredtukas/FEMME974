@@ -1,4 +1,4 @@
-<h2 class="text-center m-4">Contact</h2>
+<h2 class="text-center m-4" id="formulaire">Contact</h2>
 
 <form class="m-4">
   <div class="row">

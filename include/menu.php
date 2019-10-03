@@ -18,7 +18,7 @@
         <a class="nav-link" href="#">Notre rôle</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#formulaire.php">Nous contacter</a>
+        <a class="nav-link" href="#formulaire">Nous contacter</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Partenaires</a>
