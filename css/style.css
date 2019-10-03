@@ -1,24 +1,32 @@
+/* BODY */
+
 body{
-    font-family: poppins;
-    
+  font-family: Poppins;
 }
 
+/* LOGO DU FOOTER */
 .logo{
     width: 100px;
     height: 100px;
     margin-left: 100px;
 }
 
-h5{
-    text-align: center;
-    font-family: poppins;
-}
-
+/* LOGO DU MENU */
 .femme{
     width: 100px;
     height: 65px;
 }
 
 .carou{
-    color: #7f4782;
+    color: #c10000;
+}
+
+.btn-fred{
+
+    border: 1px  #c10000 solid;
+}
+.btn-fred:hover{
+    color: #c10000;
+    margin-left: -10px;
+    transition: 0.5s;
 }
