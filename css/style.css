@@ -1,8 +1,11 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+
 /* BODY */
 
 body{
-  font-family: Poppins;
-  background-color: #dedede;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* LOGO DU FOOTER */
