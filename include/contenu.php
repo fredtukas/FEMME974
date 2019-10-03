@@ -11,7 +11,7 @@
         <div class="carousel-inner">
             <!--IMAGE 1-->
             <div class="carousel-item active">
-                <img src="./contenu.php/../images/violence1.jpg"  height="450px" class="d-block w-100" alt="...">
+                <img src="images/violence1.jpg"  height="450px" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                 <h5 class="carou"><strong>VOUS ETES VICTIME DE VIOLENCE ?</strong></h5>
               <p class="carou"><strong> Qui contacter ? N'hésitez pas à appeler le </strong><h4>3 9 1 9</h4></p>
@@ -19,7 +19,7 @@
             </div>
             <div class="carousel-item">
                 <!--IMAGE 2-->
-                <img src="./contenu.php/../images/violence2.jpg" height="450px" class="d-block w-100" alt="...">
+                <img src="images/violence2.jpg" height="450px" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5 class="carou"><strong>VOUS ETES VICTIME DE MALTRAITANCE ? </strong></h5>
                     <p class="carou"><strong>Faites vous aider par des professionnels : NUMEROS UTILES SUR LA PLAQUETTE ORVIFF<br>
@@ -28,7 +28,7 @@
             </div>
             <div class="carousel-item">
                 <!--IMAGE 3-->
-                <img src="./contenu.php/../images/violence3.jpg" height="450px" class="d-block w-100" alt="...">
+                <img src="images/violence3.jpg" height="450px" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h5 class="carou"><strong>L'ASSOCIATION AFECT est notre partenaire direct pour la lutte contre les violences faites aux femmes. </strong> </h5>
                     <p class="carou"><strong>Elle organise des groupes de parole : APPELEZ au 0692 617 659 Mme Rolande CAZAL est la présidente. </strong></p>

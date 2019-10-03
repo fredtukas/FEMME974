@@ -55,3 +55,8 @@ hr{
     margin-bottom: 20px;
 
 }
+
+.bg-btn-red{
+    color: white;
+    background-color: #c10000;
+}
