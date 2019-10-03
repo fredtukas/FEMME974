@@ -9,7 +9,7 @@
         <a class="nav-link" href="#">Historique</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Les travaux</a>
+        <a class="nav-link" href="include/travaux.php">Les travaux</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Liens utiles</a>

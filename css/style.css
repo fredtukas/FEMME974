@@ -6,8 +6,12 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: #dedede;
 }
 
+.container{
+    background-color: white;
+}
 /* LOGO DU FOOTER */
 .logo{
     width: 100px;
@@ -25,12 +29,20 @@ body{
     color: #c10000;
 }
 
-.btn-fred{
+.btn-red{
 
     border: 1px  #c10000 solid;
+    margin-bottom: 20px;
+    
 }
-.btn-fred:hover{
-    color: #c10000;
-    margin-left: -10px;
-    transition: 0.5s;
+.btn-red:hover{
+    color: #ff4949;
+      
+}
+
+hr{
+    width: 50%;
+    size: 2px;
+    margin-bottom: 20px;
+
 }
