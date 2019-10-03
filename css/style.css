@@ -1,5 +1,6 @@
 body{
     font-family: poppins;
+    
 }
 
 .logo{
@@ -16,4 +17,8 @@ h5{
 .femme{
     width: 100px;
     height: 65px;
+}
+
+.carou{
+    color: #7f4782;
 }
