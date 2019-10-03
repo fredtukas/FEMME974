@@ -51,7 +51,9 @@
               <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>-->
 
               <!--collapse--> 
-
+              <div class="container">
+    
+ 
               <p class="text-center">LE SERVICE RÉGIONAL DES DROITS DES FEMMES et DE L'ÉGALITÉ DE LA RÉUNION : contacter le 0262 40 78 39 
               situé à Saint Denis Préfecture.<br>
             COMMUNIQUEZ SANS STÉRÉOTYPES SEXISTES : télécharger les bonnes pratiques</p>
@@ -61,9 +63,9 @@
             <p class="text-center">Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux 
             tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.</p>
 
-  <a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+  <p class="text-center"><a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Lire la suite
-  </a>
+  </a></p>
 
 </p>
 <div class="collapse" id="collapseExample">
@@ -87,3 +89,4 @@ dans le but d'un centre de ressources et de donner du sens à nos combats.<br><b
 <ol><strong style="color:#ff4949;">FORMER ET INFORMER A TOUTES LES THÉMATIQUES LIÉES AUX DROITS DES FEMMES :</strong> intervenants, partenaires, presse, élus, tout public.<br><br></ol>
 </ul>
 
+</div>

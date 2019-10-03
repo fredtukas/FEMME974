@@ -1,6 +1,7 @@
 /* google font */
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap'); 
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Pacifico&display=swap'); 
 
 /* BODY */
 
@@ -9,9 +10,13 @@ body{
     background-color: #dedede;
 }
 
-.container{
-    background-color: white;
+
+
+h1{
+    color: #c10000;
+    font-family: 'pacifico';
 }
+
 /* LOGO DU FOOTER */
 .logo{
     width: 100px;

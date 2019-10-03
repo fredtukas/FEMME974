@@ -23,6 +23,10 @@
 
   <main class="container">
 
+
+    <!--banniere-->
+    <?php include("include/banniere.php"); ?>
+
     <!--contenu-->
     <?php include("include/contenu.php"); ?>
 

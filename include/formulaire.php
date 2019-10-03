@@ -21,6 +21,6 @@
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Votre message"></textarea>
   </div>
 
-  <button type="button" class="btn btn-red">Envoyer</button>
+  <p class="text-center"><button type="button" class="btn btn-red">Envoyer</button></p>
 </form>
 
