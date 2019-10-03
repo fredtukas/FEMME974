@@ -2,7 +2,7 @@
 <div class="container">
 <div class="card">
   <div class="card-header">
-    Footer
+   
   </div>
   <div class="card-body">
     <h5 class="card-title"></h5>
@@ -14,7 +14,7 @@
     <a href="http://www.efticoi.net/efticoi-association.htm" target="blank"><img src="images/4.jpg" class="logo"></a><br><br>
 
 
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    
   </div>
 </div>
 </div>

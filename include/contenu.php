@@ -61,7 +61,7 @@
             <p class="text-center">Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux 
             tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.</p>
 
-  <a class="btn btn-fred" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+  <a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Lire la suite
   </a>
 
@@ -74,7 +74,8 @@
   </div>
  
 </div>
-<h5 class="text-center" style="color:#c10000;"><strong>COMMENT ?</strong></h5><br>
+<hr>
+<h2 class="text-center" style="color:#c10000;">Comment ?</h2><br>
 
 <ul class="text-center">
 <ol><strong style="color:#ff4949;">RENFORCER LES DISPOSITIFS EXISTANTS SUR LES DROITS DES FEMMES :</strong> sur le plan de l'application des lois sur le plan professionnel 

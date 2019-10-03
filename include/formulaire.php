@@ -1,4 +1,6 @@
-<h2 class="text-center m-4">Contact</h2>
+<hr>
+
+<h2 class="text-center m-4" style="color:#c10000;">Contact</h2>
 
 <form class="m-4">
   <div class="row">
@@ -19,6 +21,6 @@
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Votre message"></textarea>
   </div>
 
-  <button type="button" class="btn btn-primary">Envoyer</button>
+  <button type="button" class="btn btn-red">Envoyer</button>
 </form>
 
