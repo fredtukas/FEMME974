@@ -23,7 +23,7 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5 class="carou"><strong>VOUS ETES VICTIME DE MALTRAITANCE ? </strong></h5>
                     <p class="carou"><strong>Faites vous aider par des professionnels : NUMEROS UTILES SUR LA PLAQUETTE ORVIFF<br>
-                    <a href="http://www.femmes974.info/plaquette-ARAJUFA-01-08-19.pdf">(À TÉLÉCHARGER ICI)</strong></a></p>
+                    <a href="http://www.femmes974.info/plaquette-ARAJUFA-01-08-19.pdf" target="blank">(À TÉLÉCHARGER ICI)</strong></a></p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -74,15 +74,15 @@
   </div>
  
 </div>
-<h5 class="text-center">COMMENT ?</h5><br>
+<h5 class="text-center" style="color:#c10000;"><strong>COMMENT ?</strong></h5><br>
 
 <ul class="text-center">
-<ol><strong>RENFORCER LES DISPOSITIFS EXISTANTS SUR LES DROITS DES FEMMES :</strong> sur le plan de l'application des lois sur le plan professionnel 
+<ol><strong style="color:#ff4949;">RENFORCER LES DISPOSITIFS EXISTANTS SUR LES DROITS DES FEMMES :</strong> sur le plan de l'application des lois sur le plan professionnel 
 et familail et dans son ensemble sur le respect des droits.<br><br>
 </ol>
-<ol><strong>ACTIVER LES RÉSEAUX AVEC LES DIFFERENTS ACTEURS :</strong> créer des passerelles entre institutions, associations, mutualiser les moyens 
+<ol><strong style="color:#ff4949;">ACTIVER LES RÉSEAUX AVEC LES DIFFERENTS ACTEURS :</strong> créer des passerelles entre institutions, associations, mutualiser les moyens 
 dans le but d'un centre de ressources et de donner du sens à nos combats.<br><br>
 </ol>
-<ol><strong>FORMER ET INFORMER A TOUTES LES THÉMATIQUES LIÉES AUX DROITS DES FEMMES :</strong> intervenants, partenaires, presse, élus, tout public.<br><br></ol>
+<ol><strong style="color:#ff4949;">FORMER ET INFORMER A TOUTES LES THÉMATIQUES LIÉES AUX DROITS DES FEMMES :</strong> intervenants, partenaires, presse, élus, tout public.<br><br></ol>
 </ul>
 
