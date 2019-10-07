@@ -34,11 +34,13 @@
           <a class="dropdown-item" href="hhttps://www.zinfos974.com/" target="blank">	Z'infos 974</a>
           <a class="dropdown-item" href="https://www.insee.fr/fr/statistiques/1288873" target="blank">Données INSEE sur les salires à la Réunion</a>
           <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Chambre des métiers et de l'artisanat de la Réunion</a>
-         
-
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#formulaire">Nous contacter</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.helloasso.com/associations/femmes-974/adhesions/femmes974-adhesions-2016">Nous rejoindre</a>
       </li>
     </ul>
   </div>
