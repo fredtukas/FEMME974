@@ -26,7 +26,7 @@
       <p class="lead">Voici les ressources que nous mettons en disposition de tous le monde.</p>
       <hr class="my-4">
       <p>Cliquez sur le bouton pour accéder</p>
-      <a class="btn bg-btn-red btn-lg" href="https://drive.google.com/drive/folders/1my2WagqUgJT807n-pSWa2AvUgceeWWjD?usp=sharing" role="button">Accéder</a>
+      <a class="btn btn-red" href="https://drive.google.com/drive/folders/1my2WagqUgJT807n-pSWa2AvUgceeWWjD?usp=sharing" target="blank" role="button">Accéder</a>
     </div>
 
   </main>
