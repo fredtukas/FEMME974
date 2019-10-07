@@ -25,6 +25,8 @@
 
   <?php include("banniere.php"); ?>
 
+  <hr>
+
     <h2 class="text-center" style="color:#c10000;">Pourquoi ?<h2><br>
 
         <p class="text-center">
@@ -52,7 +54,7 @@
 
         <p class="text-center">
           <font size="4">Ces <strong style="color:#ff4949;">Etats Généraux des Femmes de La Réunion</strong> se sont déroulés sur une période de 2 mois en février et mars 2010.</font>
-        </p><br>
+        </p><br><hr>
 
         <h2 class="text-center" style="color:#c10000;">Comment?<h2><br>
 
@@ -75,16 +77,16 @@
             </p>
 
             <p class="text-center">
-              <font size="4">5 propositions à lire</font>
+              <font size="4"><a href="propositions.php">5 propositions à lire</a></font>
             </p>
             <p class="text-center">
-              <font size="4">La liste des associations participantes</font>
+              <font size="4"><a href="liste-asso.php">La liste des associations participantes</a></font>
             </p>
             <p class="text-center">
               <font size="4">Début 2011, il est apparu évident qu'à la suite de cette impulsion une dynamique devait se poursuivre pour pérenniser les réflexions, propositions et mettre en oeuvre des actions de terrain</font>
             </p>
             <p class="text-center">
-              <font size="4">Femmes974 est née.</font>
+              <font size="4"><strong>Femmes974 est née.</strong></font>
             </p>
 
             <p class="text-center">
