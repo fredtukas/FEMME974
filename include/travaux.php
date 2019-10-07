@@ -26,8 +26,8 @@
   <main class="container bg-blanc">
 
     <div class="jumbotron text-center bg-blanc">
-      <h1 class="display-4">Les travaux réalisés par l'association</h1>
-      <p class="lead">Voici les ressources que nous mettons en disposition de tous le monde.</p>
+      <h1 class="display-4">Les travaux réalisés par l'association</h1><br>
+      <p class="lead">Voici les ressources que nous mettons à disposition de tout le monde.</p>
       <hr class="my-4">
       <p>Cliquez sur le bouton pour accéder</p>
       <a class="btn btn-red" href="https://drive.google.com/drive/folders/1my2WagqUgJT807n-pSWa2AvUgceeWWjD?usp=sharing" target="blank" role="button">Accéder</a>
