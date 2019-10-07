@@ -16,8 +16,13 @@ body{
     background-color: white;  
 }
 
-.a{
-    color:red;
+a{
+    color:#c10000;
+}
+
+a:hover{
+    text-decoration: none;
+    color:#ff4949;
 }
 
 h1{

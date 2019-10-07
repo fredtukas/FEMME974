@@ -14,7 +14,7 @@
     </p>
 <p class="text-center">Association enregistrée à la préfecture de la Réunion sous le n°w9r4002385
 SIRET 534 792 643 00015<br><br>
-    
+    <a href="#">Mentions légales</a>
   </div>
 </div>
 </div>
