@@ -46,10 +46,6 @@
     </div>
 </div>
 
-
-<!--<h5>VOUS ETES VICTIME DE VIOLENCE ?</h5>
-              <p> Qui contacter ? N'hésitez pas à appeler le 3 9 1 9</p>-->
-
               <!--collapse--> 
               <div class="container bg-blanc">
     
