@@ -18,14 +18,10 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://www.defenseurdesdroits.fr/" target="blank">Défenseur des droits</a>
           <a class="dropdown-item" href="https://www.unwomen.org/fr" target="blank">ONU Femmes</a>
-          <a class="dropdown-item" href="mailto:drdfe@reunion.pref.gouv.fr">	Délégation Régionale aux Droits des Femmes et à l'Egalité
-          Contact</a>
           <a class="dropdown-item" href="http://www.eveprogramme.com/fr/" target="blank">EVE PROGRAMME</a>
           <a class="dropdown-item" href="http://www.efoi.biz/" target="blank">EFOI réseau entreprendre au féminin dans l'océan Indien</a>
           <a class="dropdown-item" href="https://www.noustoutes.org/" target="blank">NousToutes : mouvements féministe</a>
           <a class="dropdown-item" href="http://www.mmf-france.fr/" target="blank">La Marche mondiale des femmes</a>
-          <a class="dropdown-item" href="mailto:contact@efticoi.net" target="blank">EFTICOI entreprendre au féminin, informer, communiquer dans l'océan Indien.</a>
-          <a class="dropdown-item" href="mailto:afect974@gmail.com" target="blank">AFECT Association pour la Lutte contre la tristesse, tyrammie, traumatisme</a>
           <a class="dropdown-item" href="https://entreprendreaufeminin.re/" target="blank">EFOI Réunion Entreprendre au Féminin Océan Indien Réunion</a>
           <a class="dropdown-item" href="http://www.chancegal.com/" target="blank">CHANCEGAL, agence pour l'égalité des chances entre les femmes et les hommes</a>
           <a class="dropdown-item" href="https://www.planning-familial.org/fr" target="blank">PLANNING FAMILIAL 974</a>
@@ -37,12 +33,14 @@
           <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank">	Le journal de l'ile</a>
           <a class="dropdown-item" href="hhttps://www.zinfos974.com/" target="blank">	Z'infos 974</a>
           <a class="dropdown-item" href="https://www.insee.fr/fr/statistiques/1288873" target="blank">Données INSEE sur les salires à la Réunion</a>
-          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Chmabre des métiers et de l'artisanat de la Réunion</a>
-         
-
+          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Chambre des métiers et de l'artisanat de la Réunion</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#formulaire">Nous contacter</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.helloasso.com/associations/femmes-974/adhesions/femmes974-adhesions-2016">Nous rejoindre</a>
       </li>
     </ul>
   </div>
