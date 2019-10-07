@@ -23,7 +23,7 @@
                 <div class="carousel-caption d-none d-md-block">
                     <h5 class="carou"><strong>VOUS ETES VICTIME DE MALTRAITANCE ? </strong></h5>
                     <p class="carou"><strong>Faites vous aider par des professionnels :NUMEROS UTILES SUR LA PLAQUETTE ORVIFF<br>
-                            <a href="http://www.femmes974.info/plaquette-ARAJUFA-01-08-19.pdf" target="blank">(À TÉLÉCHARGER ICI)</strong></a></p>
+                            <a href="http://www.femmes974.info/plaquette-ARAJUFA-01-08-19.pdf" target="blank">À TÉLÉCHARGER ICI</strong></a></p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -51,10 +51,11 @@
 
 
     <p class="text-center">LE SERVICE RÉGIONAL DES DROITS DES FEMMES et DE L'ÉGALITÉ DE LA RÉUNION : contacter le 0262 40 78 39
-        situé à Saint Denis Préfecture.<br>
-        COMMUNIQUEZ SANS STÉRÉOTYPES SEXISTES : télécharger les bonnes pratiques</p>
+        situé à Saint Denis Préfecture.<br></p>
+        COMMUNIQUEZ SANS STÉRÉOTYPES SEXISTES : <a href="http://www.femmes974.info/hcefh__com_sans_stereo-2015.pdf" target="blank">télécharger les bonnes pratiques.</a><br><br>
 
-    <p class="text-center" style="color:#ff4949;">Une ASSOCIATION qui fait quoi ?</p>
+
+    <h2 class="text-center" style="color:#c10000;">Une ASSOCIATION qui fait quoi ?</h2><br>
 
 
 
@@ -65,7 +66,7 @@
     </p>
     <div class="collapse" id="collapseExample">
         <div class="card card-body">
-            <p>Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux
+            <p><strong>Femmes 974</strong> a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux
                 tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.</p>
             <p>Sa mission est d'analyser les causes du harcèlement, des injustices, des violences envers les femmes afin d'élaborer des outils,
                 de mettre en place des actions, de rassembler les solidarités, d'encourager le changement des mentalités, d'enclencher le respect et
