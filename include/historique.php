@@ -23,67 +23,71 @@
 
   <main class="container py-4 mb-4 bg-blanc">
 
-    <h2>POURQUOI ?<h2>
+  <?php include("banniere.php"); ?>
 
-        <p>
-          <font size="4">Les femmes, grandes absentes des Etats généraux de l'Outremer, se battent pour faire entendre leurs revendications.</font>
+    <h2 class="text-center" style="color:#c10000;">Pourquoi ?<h2><br>
+
+        <p class="text-center">
+          <font size="4" >Les femmes, grandes absentes des Etats généraux de l'Outremer, se battent pour faire entendre leurs revendications.</font>
         </p>
 
-        <p>
-          <font size="4">Un comité composé d'une quinzaine d'associations intervenant pour la défense et la promotion de la condition féminine dans des secteurs très diversifiés s'est constitué pour organiser Les Etats Généraux des Femmes de La Réunion auxquels toutes les associations, hommes, femmes, personnes intéressées ont été invitées à participer.</font>
+        <p class="text-center">
+          <font size="4">Un comité composé d'une quinzaine d'associations intervenant pour la défense et la promotion de la condition féminine dans des secteurs 
+          très diversifiés s'est constitué pour organiser <strong style="color:#ff4949;">Les Etats Généraux des Femmes de La Réunion</strong> auxquels toutes les associations, hommes, femmes, personnes 
+          intéressées ont été invitées à participer.</font>
         </p>
 
-        <p>
+        <p class="text-center">
           <font size="4">Ce projet a été soumis et encouragé par Madame la Déléguée Régionale aux Droits des Femmes.</font>
         </p>
 
-        <p>
+        <p class="text-center">
           <font size="4">Madame la sénatrice Anne-Marie PAYET a accepté d'être la marraine et des personnalités nous ont apporté leur soutien.</font>
         </p>
 
-        <p>
-          <font size="4">Madame Michèle ANDRÉ, présidente de la Délagation aux Droits des Femmes au Sénat, est intervenue pour nous féliciter en ces termes.</font>
+        <p class="text-center">
+          <font size="4">Madame Michèle ANDRÉ, présidente de la Délagation aux Droits des Femmes au Sénat, est intervenue pour
+           nous féliciter en ces termes: <a href="http://www.femmes974.info/senat.pdf" target="blank">télécharger</a>
         </p>
 
-        <p>
-          <font size="4">Ces Etats Généraux des Femmes de La Réunion se sont déroulés sur une période de 2 mois en février et mars 2010.</font>
-        </p>
+        <p class="text-center">
+          <font size="4">Ces <strong style="color:#ff4949;">Etats Généraux des Femmes de La Réunion</strong> se sont déroulés sur une période de 2 mois en février et mars 2010.</font>
+        </p><br>
 
-        <h2>COMMENT ?<h2>
+        <h2 class="text-center" style="color:#c10000;">Comment?<h2><br>
 
-            <p>
+            <p class="text-center">
               <font size="4">Des réunions publiques ont eu lieux dans toute l’île afin de cerner les attentes des femmes réunionnaises. Entretiens privés, contributions écrites et questionnaires sont venus compléter ce panorama des revendications pour aboutir à un rapport d'étape, présenté lors de la journée de la femme, le lundi 08 mars 2010.</font>
             </p>
 
-            <p>
-              <font size="4">Un rapport de synthèse générale a été remis aux pouvoirs publics lors de la restitution des travaux en avril 2010.</font>
+            <p class="text-center">
+              <font size="4">Un <a href="http://www.femmes974.info/SYNTHESE-TRANSVERSALE.pdf" target="blank">rapport de synthèse générale</a> a été remis aux pouvoirs publics lors de la restitution des travaux en avril 2010.</font>
             </p>
 
-
-            <p>
+            <p class="text-center">
               <font size="4">TROIS THÈMES SUR TROIS ATELIERS POUR RÉDIGER UNE SYNTHÈSE TRANSVERSALE</font>
             </p>
-            <p>
+            <p class="text-center">
               <font size="4">LES RÉSULTATS DES TRAVAUX</font>
             </p>
-            <p>
-              <font size="4">Télécharger la synthèse transversale</font>
+            <p class="text-center"><a href="http://www.femmes974.info/SYNTHESE-TRANSVERSALE.pdf" target="blank">
+              <font size="4">Télécharger la synthèse transversale</font></a>
             </p>
 
-            <p>
+            <p class="text-center">
               <font size="4">5 propositions à lire</font>
             </p>
-            <p>
+            <p class="text-center">
               <font size="4">La liste des associations participantes</font>
             </p>
-            <p>
+            <p class="text-center">
               <font size="4">Début 2011, il est apparu évident qu'à la suite de cette impulsion une dynamique devait se poursuivre pour pérenniser les réflexions, propositions et mettre en oeuvre des actions de terrain</font>
             </p>
-            <p>
+            <p class="text-center">
               <font size="4">Femmes974 est née.</font>
             </p>
 
-            <p>
+            <p class="text-center">
               <font size="4">Quelques unes des associations sont toujours à nos côtés.</font>
             </p>
 

@@ -18,6 +18,10 @@
     <!--menu-->
     <?php include("menu.php"); ?>
   </header>
+
+<div class="container">
+  <?php include("banniere.php"); ?>
+  </div>
     
   <main class="container bg-blanc">
 
