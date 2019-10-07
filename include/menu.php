@@ -37,7 +37,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#formulaire">Nous contacter</a>
+        <a class="nav-link" href="include/contact.php">Nous contacter</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://www.helloasso.com/associations/femmes-974/adhesions/femmes974-adhesions-2016">Nous rejoindre</a>
