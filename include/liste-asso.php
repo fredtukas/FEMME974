@@ -24,9 +24,22 @@
   <div class="container">
     <?php include("banniere.php"); ?>
 
+<h1 class="text-center">La liste des associations participantes</h1>
     <p class="text-center">
+  <a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Lire la suite
+  </a>
+  
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+  <p class="text-center">
       <img src="images/9.jpg">
-    </p>
+    </p>  </div>
+</div>
+
+
+    
   </div>
 
   <footer>

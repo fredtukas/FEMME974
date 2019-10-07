@@ -70,24 +70,24 @@
               <font size="4">TROIS THÈMES SUR TROIS ATELIERS POUR RÉDIGER UNE SYNTHÈSE TRANSVERSALE</font>
             </p>
             <p class="text-center">
-              <font size="4">LES RÉSULTATS DES TRAVAUX</font>
+              <font size="4">LES RÉSULTATS DES TRAVAUX</font><hr>
             </p>
             <p class="text-center"><a href="http://www.femmes974.info/SYNTHESE-TRANSVERSALE.pdf" target="blank">
-              <font size="4">Télécharger la synthèse transversale</font></a>
+              <font size="4">Télécharger la synthèse transversale</font></a><hr>
             </p>
 
             <p class="text-center">
-              <font size="4"><a href="propositions.php">5 propositions à lire</a></font>
+              <font size="4"><a href="propositions.php">5 propositions à lire</a></font><hr>
             </p>
             <p class="text-center">
-              <font size="4"><a href="liste-asso.php">La liste des associations participantes</a></font>
+              <font size="4"><a href="liste-asso.php">La liste des associations participantes</a></font><hr>
             </p>
             <p class="text-center">
               <font size="4">Début 2011, il est apparu évident qu'à la suite de cette impulsion une dynamique devait se poursuivre pour pérenniser les réflexions, propositions et mettre en oeuvre des actions de terrain</font>
-            </p>
+            </p><hr>
             <p class="text-center">
               <font size="4"><strong>Femmes974 est née.</strong></font>
-            </p>
+            </p><hr>
 
             <p class="text-center">
               <font size="4">Quelques unes des associations sont toujours à nos côtés.</font>
