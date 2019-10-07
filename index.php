@@ -23,15 +23,11 @@
 
   <main class="container bg-blanc">
 
-
     <!--banniere-->
     <?php include("include/banniere.php"); ?>
 
     <!--contenu-->
     <?php include("include/contenu.php"); ?>
-
-    <!--formulaire-->
-    <?php include("include/formulaire.php"); ?>
 
   </main>
 
