@@ -21,7 +21,7 @@
     <?php include("menu.php"); ?>
   </header>
 
-  <main class="container my-4 py-4 bg-blanc">
+  <main class="container py-4 mb-4 bg-blanc">
 
     <h2>POURQUOI ?<h2>
 
