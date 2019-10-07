@@ -24,17 +24,20 @@
           <a class="dropdown-item" href="http://www.efoi.biz/" target="blank">EFOI réseau entreprendre au féminin dans l'océan Indien</a>
           <a class="dropdown-item" href="https://www.noustoutes.org/" target="blank">NousToutes : mouvements féministe</a>
           <a class="dropdown-item" href="http://www.mmf-france.fr/" target="blank">La Marche mondiale des femmes</a>
-          <a class="dropdown-item" href="#">Défis de Femmes entreprendre à la Réunion</a>
-          <a class="dropdown-item" href="#">EFTICOI entreprendre au féminin, informer, communiquer dans l'océan Indien.</a>
-          <a class="dropdown-item" href="#">AFECT Association pour la Lutte contre la tristesse, tyrammie, traumatisme</a>
-          <a class="dropdown-item" href="#">Association des femmes de l'Océan Indien</a>
-          <a class="dropdown-item" href="#">EFOI Réunion Entreprendre au Féminin Océan Indien Réunion</a>
-          <a class="dropdown-item" href="#">CHANCEGAL, agence pour l'égalité des chances entre les femmes et les hommes</a>
-          <a class="dropdown-item" href="#">PLANNING FAMILIAL 974</a>
-          <a class="dropdown-item" href="#">Les chiffres clés de l'égalité</a>
-          <a class="dropdown-item" href="#">Observatoire réunionnais des violences faites aux femmes</a>
-          <a class="dropdown-item" href="#">Promotion de l'égalité des chances entre les filles et les garçons, dans le système éducatif.</a>
-          <a class="dropdown-item" href="#">	Fond de garantie à l'initiative des femmes</a>
+          <a class="dropdown-item" href="mailto:contact@efticoi.net" target="blank">EFTICOI entreprendre au féminin, informer, communiquer dans l'océan Indien.</a>
+          <a class="dropdown-item" href="mailto:afect974@gmail.com" target="blank">AFECT Association pour la Lutte contre la tristesse, tyrammie, traumatisme</a>
+          <a class="dropdown-item" href="https://entreprendreaufeminin.re/" target="blank">EFOI Réunion Entreprendre au Féminin Océan Indien Réunion</a>
+          <a class="dropdown-item" href="http://www.chancegal.com/" target="blank">CHANCEGAL, agence pour l'égalité des chances entre les femmes et les hommes</a>
+          <a class="dropdown-item" href="https://www.planning-familial.org/fr" target="blank">PLANNING FAMILIAL 974</a>
+          <a class="dropdown-item" href="http://femmes.gouv.fr/wp-content/uploads/2015/03/Chiffres-cles-2015_Lessentiel.pdf" target="blank">Les chiffres clés de l'égalité</a>
+          <a class="dropdown-item" href="http://www.orviff.re/fr/1/accueil.html" target="blank">Observatoire réunionnais des violences faites aux femmes</a>
+          <a class="dropdown-item" href="https://www.education.gouv.fr/cid4006/egalite-des-filles-et-des-garcons.html" target="blank">Promotion de l'égalité des chances entre les filles et les garçons, dans le système éducatif.</a>
+          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Fond de garantie à l'initiative des femmes</a>
+          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank">	Le Quotidien</a>
+          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank">	Le journal de l'ile</a>
+          <a class="dropdown-item" href="hhttps://www.zinfos974.com/" target="blank">	Z'infos 974</a>
+          <a class="dropdown-item" href="https://www.insee.fr/fr/statistiques/1288873" target="blank">Données INSEE sur les salires à la Réunion</a>
+          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Chmabre des métiers et de l'artisanat de la Réunion</a>
          
 
       </li>
