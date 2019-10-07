@@ -6,7 +6,7 @@
   <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Historique</a>
+        <a class="nav-link" href="include/historique.php">Historique</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="include/travaux.php">Les travaux</a>
