@@ -6,6 +6,9 @@
   <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
+        <a class="nav-link" href="./../index.php">Accueil</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="include/historique.php">Historique</a>
       </li>
       <li class="nav-item">
@@ -28,12 +31,12 @@
           <a class="dropdown-item" href="http://femmes.gouv.fr/wp-content/uploads/2015/03/Chiffres-cles-2015_Lessentiel.pdf" target="blank">Les chiffres clés de l'égalité</a>
           <a class="dropdown-item" href="http://www.orviff.re/fr/1/accueil.html" target="blank">Observatoire réunionnais des violences faites aux femmes</a>
           <a class="dropdown-item" href="https://www.education.gouv.fr/cid4006/egalite-des-filles-et-des-garcons.html" target="blank">Promotion de l'égalité des chances entre les filles et les garçons, dans le système éducatif.</a>
-          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Fond de garantie à l'initiative des femmes</a>
-          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank">	Le Quotidien</a>
-          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank">	Le journal de l'ile</a>
-          <a class="dropdown-item" href="hhttps://www.zinfos974.com/" target="blank">	Z'infos 974</a>
+          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank"> Fond de garantie à l'initiative des femmes</a>
+          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank"> Le Quotidien</a>
+          <a class="dropdown-item" href="http://www.lequotidien.re/" target="blank"> Le journal de l'ile</a>
+          <a class="dropdown-item" href="hhttps://www.zinfos974.com/" target="blank"> Z'infos 974</a>
           <a class="dropdown-item" href="https://www.insee.fr/fr/statistiques/1288873" target="blank">Données INSEE sur les salires à la Réunion</a>
-          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank">	Chambre des métiers et de l'artisanat de la Réunion</a>
+          <a class="dropdown-item" href="https://www.franceactive.org/?id=82" target="blank"> Chambre des métiers et de l'artisanat de la Réunion</a>
         </div>
       </li>
       <li class="nav-item">

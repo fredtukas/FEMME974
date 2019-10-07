@@ -11,7 +11,7 @@
             <div class="carousel-item active">
                 <img src="images/violence1.jpg" height="450px" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5 class="carou"><strong >VOUS ETES VICTIME DE VIOLENCE ?</strong></h5>
+                    <h5 class="carou"><strong>VOUS ETES VICTIME DE VIOLENCE ?</strong></h5>
                     <p class="carou"><strong> Qui contacter ? N'hésitez pas à appeler le </strong>
                         <h4>3 9 1 9</h4>
                     </p>
@@ -56,7 +56,7 @@
 
     <p class="text-center" style="color:#ff4949;">Une ASSOCIATION qui fait quoi ?</p>
 
-   
+
 
     <p class="text-center"><a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
             Lire la suite
@@ -65,11 +65,11 @@
     </p>
     <div class="collapse" id="collapseExample">
         <div class="card card-body">
-        <p>Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux
-        tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.</p>
+            <p>Femmes 974 a pour but l’étude, l’information, la défense des droits et des intérêts matériels et moraux
+                tant collectifs qu’individuels des femmes de La Réunion et plus généralement la défense et la promotion des droits des femmes.</p>
             <p>Sa mission est d'analyser les causes du harcèlement, des injustices, des violences envers les femmes afin d'élaborer des outils,
-            de mettre en place des actions, de rassembler les solidarités, d'encourager le changement des mentalités, d'enclencher le respect et
-            d'encourager les femmes à être ambitieuses et leaders dans tous les domaines de la vie privée, professionnelle et publique.</p>
+                de mettre en place des actions, de rassembler les solidarités, d'encourager le changement des mentalités, d'enclencher le respect et
+                d'encourager les femmes à être ambitieuses et leaders dans tous les domaines de la vie privée, professionnelle et publique.</p>
         </div>
 
     </div>
@@ -84,9 +84,10 @@
     </p>
     <p class="font-weight-normal"><strong style="color:#ff4949;">FORMER ET INFORMER A TOUTES LES THÉMATIQUES LIÉES AUX DROITS DES FEMMES :</strong> intervenants, partenaires, presse, élus, tout public.<br><br></ol>
     </p>
-<div class="container">
-    <h2 class="text-center" style="color:#c10000;">Vidéos</h2><br>
-    <p class="text-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YExYbh4ly38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-        <p class="text-center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/63VnNRxwGDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>    
+
+    <h2 class="text-center" style="color:#c10000;">Vidéos</h2>
+    <div class="row">
+        <p class="text-center col"><iframe src="https://www.youtube.com/embed/YExYbh4ly38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+        <p class="text-center col"> <iframe src="https://www.youtube.com/embed/63VnNRxwGDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 </div>

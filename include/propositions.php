@@ -21,33 +21,30 @@
     <!--menu-->
     <?php include("menu.php"); ?>
   </header>
-<div class="container">
-  <?php include("banniere.php"); ?>
+  <div class="container">
+    <?php include("banniere.php"); ?>
   </div>
   <h1 class="text-center">Les 5 propositions issues de la synthèse transversale</h1><br>
 
   <p class="text-center">
-  <a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" >
-    Lire la suite
-  </a>
-  
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-  <div class="container">
-    <p class="text-center">
-      <img src="images/7.jpg">
-    </p>
+    <a class="btn btn-red" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+      Lire la suite
+    </a>
+
+  </p>
+  <div class="collapse" id="collapseExample">
+    <div class="container bg-blanc">
+      <p class="text-center">
+        <img src="images/7.jpg">
+      </p>
+      <p class="text-center">
+        <img src="images/8.jpg">
+      </p>
+    </div>
   </div>
-  <div class="container">
-    <p class="text-center">
-      <img src="images/8.jpg">
-    </p>
-  </div>  </div>
-</div>
 
 
- 
+
 
   <p class="text-center"><a href="http://www.femmes974.info/DOSSIER-DE-PRESSE-4.pdf" target="blank">Télécharger le dossier de presse</a></p>
 
